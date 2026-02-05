@@ -56,7 +56,7 @@ AWS Config → EventBridge → Lambda (Auto-Remediation) → SNS (Alert)
 ![Config](Screenshots/config-enabled.png)
 
 ### SNS Alerts  
-![SNS](Screenshots/sns-email.png)
+![SNS](Screenshots/sns_email.png)
 
 ### EventBridge Rule  
 ![EventBridge](Screenshots/eventbridge-rule.png)
