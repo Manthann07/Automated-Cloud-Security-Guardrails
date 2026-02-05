@@ -53,21 +53,22 @@ AWS Config → EventBridge → Lambda (Auto-Remediation) → SNS (Alert)
 ## 📸 Screenshots (GitHub Preview)
 
 ### AWS Config Enabled  
-![Config](screenshots/config-enabled.png)
+![Config](Screenshots/config-enabled.png)
 
 ### SNS Alerts  
-![SNS](screenshots/sns-email.png)
+![SNS](Screenshots/sns-email.png)
 
 ### EventBridge Rule  
-![EventBridge](screenshots/eventbridge-rule.png)
+![EventBridge](Screenshots/eventbridge-rule.png)
 
 ### Lambda Auto-Remediation  
-![Lambda](screenshots/lambda-code.png)
+![Lambda](Screenshots/lambda-code1.png)
+![Lambda](Screenshots/lambda-code2.png)
 
 ### S3 Auto-Fix Demo  
-![S3 Fix](screenshots/s3-public-test.png)
+![S3 Fix](Screenshots/s3-public-test.png)
 
 ### Security Group Auto-Fix Demo  
-![SG Fix](screenshots/sg-ssh-test.png)
+![SG Fix](Screenshots/sg-ssh-test.png)
 
 ---
