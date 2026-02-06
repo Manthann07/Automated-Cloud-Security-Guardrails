@@ -17,6 +17,18 @@ AWS Config → EventBridge → Lambda (Auto-Remediation) → SNS (Alert)
 
 ---
 
+## 🎥 Demo Video
+
+A short end-to-end demo showing:
+- S3 bucket becoming public → auto-remediated
+- Security Group with open SSH → rule automatically removed
+- SNS email alert triggered in real time
+
+▶️ Watch the demo:  
+**[Click here to view the demo video](https://www.linkedin.com/posts/manthan-bhadaliya_aws-cloudsecurity-securityautomation-ugcPost-7425468657742319616-qvPY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb2s7QB4HRlRBUBCk9aF-UI5BlWPFmk27w)**
+
+---
+
 ## 🛠️ AWS Services Used
 - AWS Config  
 - EventBridge  
